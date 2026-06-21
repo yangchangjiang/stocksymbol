@@ -1,0 +1,10002 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PG",
+    "name": "Procter & Gamble",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UNH",
+    "name": "UnitedHealth Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HD",
+    "name": "Home Depot Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DIS",
+    "name": "The Walt Disney Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BAC",
+    "name": "Bank of America",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UBER",
+    "name": "Uber Technologies",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SQ",
+    "name": "Block Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ABNB",
+    "name": "Airbnb Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SNOW",
+    "name": "Snowflake Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DASH",
+    "name": "DoorDash Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coinbase Global",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HOOD",
+    "name": "Robinhood Markets",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SNAP",
+    "name": "Snap Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PINS",
+    "name": "Pinterest Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SPOT",
+    "name": "Spotify Technology",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZM",
+    "name": "Zoom Video Comm.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DOCU",
+    "name": "DocuSign Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WDAY",
+    "name": "Workday Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PANW",
+    "name": "Palo Alto Networks",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CRWD",
+    "name": "CrowdStrike Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZS",
+    "name": "Zscaler Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OKTA",
+    "name": "Okta Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DDOG",
+    "name": "Datadog Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDB",
+    "name": "MongoDB Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLDR",
+    "name": "Cloudera Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ESTC",
+    "name": "Elastic N.V.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NOW",
+    "name": "ServiceNow Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WIX",
+    "name": "Wix.com Ltd.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SHOP",
+    "name": "Shopify Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ETSY",
+    "name": "Etsy Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ROKU",
+    "name": "Roku Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PELOTON",
+    "name": "Peloton Interactive",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BYND",
+    "name": "Beyond Meat",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DKNG",
+    "name": "DraftKings Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XOM",
+    "name": "Exxon Mobil Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CVX",
+    "name": "Chevron Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "COP",
+    "name": "ConocoPhillips",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SLB",
+    "name": "Schlumberger N.V.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OXY",
+    "name": "Occidental Petroleum",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HAL",
+    "name": "Halliburton Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EOG",
+    "name": "EOG Resources",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "COST",
+    "name": "Costco Wholesale",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TGT",
+    "name": "Target Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KR",
+    "name": "Kroger Co.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SBUX",
+    "name": "Starbucks Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MCD",
+    "name": "McDonald's Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CMG",
+    "name": "Chipotle Mexican Grill",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DRI",
+    "name": "Darden Restaurants",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YUM",
+    "name": "Yum! Brands Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DPZ",
+    "name": "Domino's Pizza Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WEN",
+    "name": "Wendy's Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QSR",
+    "name": "Restaurant Brands Intl.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BA",
+    "name": "Boeing Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CAT",
+    "name": "Caterpillar Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DE",
+    "name": "Deere & Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GE",
+    "name": "General Electric",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MMM",
+    "name": "3M Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HON",
+    "name": "Honeywell International",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UPS",
+    "name": "United Parcel Service",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FDX",
+    "name": "FedEx Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco Systems Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VZ",
+    "name": "Verizon Communications",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TMUS",
+    "name": "T-Mobile US Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CMCSA",
+    "name": "Comcast Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CHTR",
+    "name": "Charter Communications",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DISH",
+    "name": "DISH Network Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PFE",
+    "name": "Pfizer Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MRK",
+    "name": "Merck & Co.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ABBV",
+    "name": "AbbVie Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ABT",
+    "name": "Abbott Laboratories",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LLY",
+    "name": "Eli Lilly and Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NVS",
+    "name": "Novartis AG",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AZN",
+    "name": "AstraZeneca PLC",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BMY",
+    "name": "Bristol-Myers Squibb",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CVS",
+    "name": "CVS Health Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ANTM",
+    "name": "Anthem Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CI",
+    "name": "Cigna Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KO",
+    "name": "Coca-Cola Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PEP",
+    "name": "PepsiCo Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MNST",
+    "name": "Monster Beverage Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KDP",
+    "name": "Keurig Dr Pepper Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CCE",
+    "name": "Coca-Cola Europacific",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "STZ",
+    "name": "Constellation Brands",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BUD",
+    "name": "Anheuser-Busch InBev",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NKE",
+    "name": "Nike Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ADDYY",
+    "name": "Adidas AG",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LULU",
+    "name": "Lululemon Athletica",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UAA",
+    "name": "Under Armour Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RL",
+    "name": "Ralph Lauren Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GPS",
+    "name": "Gap Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AEO",
+    "name": "American Eagle Outfitters",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ANF",
+    "name": "Abercrombie & Fitch",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GM",
+    "name": "General Motors",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "F",
+    "name": "Ford Motor Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RIVN",
+    "name": "Rivian Automotive",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LCID",
+    "name": "Lucid Group Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NKLA",
+    "name": "Nikola Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FSR",
+    "name": "Fisker Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "C",
+    "name": "Citigroup Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GS",
+    "name": "Goldman Sachs Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MS",
+    "name": "Morgan Stanley",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WFC",
+    "name": "Wells Fargo & Co.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AXP",
+    "name": "American Express",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SCHW",
+    "name": "Charles Schwab Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BLK",
+    "name": "BlackRock Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AAL",
+    "name": "American Airlines",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DAL",
+    "name": "Delta Air Lines",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UAL",
+    "name": "United Airlines",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LUV",
+    "name": "Southwest Airlines",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RCL",
+    "name": "Royal Caribbean Cruises",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CCL",
+    "name": "Carnival Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NCLH",
+    "name": "Norwegian Cruise Line",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WYNN",
+    "name": "Wynn Resorts Ltd.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MGM",
+    "name": "MGM Resorts International",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LVS",
+    "name": "Las Vegas Sands Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MAR",
+    "name": "Marriott International",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HLT",
+    "name": "Hilton Worldwide",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BKNG",
+    "name": "Booking Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EXPE",
+    "name": "Expedia Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TRIP",
+    "name": "Tripadvisor Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IBM",
+    "name": "International Business Machines",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HPQ",
+    "name": "HP Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DELL",
+    "name": "Dell Technologies",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HPE",
+    "name": "Hewlett Packard Enterprise",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ANET",
+    "name": "Arista Networks",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JNPR",
+    "name": "Juniper Networks",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CIEN",
+    "name": "Ciena Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FFIV",
+    "name": "F5 Networks Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "S",
+    "name": "SentinelOne Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RPD",
+    "name": "Rapid7 Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CYBR",
+    "name": "CyberArk Software",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TENB",
+    "name": "Tenable Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QCOM",
+    "name": "Qualcomm Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TXN",
+    "name": "Texas Instruments",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MU",
+    "name": "Micron Technology",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ASML",
+    "name": "ASML Holding N.V.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AMAT",
+    "name": "Applied Materials",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LRCX",
+    "name": "Lam Research Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KLAC",
+    "name": "KLA Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TER",
+    "name": "Teradyne Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ENTG",
+    "name": "Entegris Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MRNA",
+    "name": "Moderna Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BNTX",
+    "name": "BioNTech SE",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GILD",
+    "name": "Gilead Sciences",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "REGN",
+    "name": "Regeneron Pharmaceuticals",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BIIB",
+    "name": "Biogen Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ILMN",
+    "name": "Illumina Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ALGN",
+    "name": "Align Technology",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PODD",
+    "name": "Insulet Corporation",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DXCM",
+    "name": "DexCom Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TECH",
+    "name": "Bio-Techne Corp.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AMGN",
+    "name": "Amgen Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CELG",
+    "name": "Celgene Corporation",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ATVI",
+    "name": "Activision Blizzard",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EA",
+    "name": "Electronic Arts Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NTES",
+    "name": "NetEase Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SEA",
+    "name": "Sea Limited",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TCEHY",
+    "name": "Tencent Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BIDU",
+    "name": "Baidu Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BABA",
+    "name": "Alibaba Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JD",
+    "name": "JD.com Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PDD",
+    "name": "Pinduoduo Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NIO",
+    "name": "NIO Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XPEV",
+    "name": "XPeng Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LI",
+    "name": "Li Auto Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BILI",
+    "name": "Bilibili Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FUTU",
+    "name": "Futu Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DIDI",
+    "name": "DiDi Global Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GRAB",
+    "name": "Grab Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SE",
+    "name": "Sea Limited",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TWTR",
+    "name": "Twitter Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MTCH",
+    "name": "Match Group Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BMBL",
+    "name": "Bumble Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LOV",
+    "name": "Lovingly Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BOX",
+    "name": "Box Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMAR",
+    "name": "Smartsheet Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TEAM",
+    "name": "Atlassian Corp.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NEWR",
+    "name": "New Relic Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PCTY",
+    "name": "Paylocity Holding",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PAYC",
+    "name": "Paycom Software",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COUP",
+    "name": "Coupa Software",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TWLO",
+    "name": "Twilio Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WK",
+    "name": "Workiva Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ALRM",
+    "name": "Alarm.com Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EGHT",
+    "name": "8x8 Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RNG",
+    "name": "RingCentral Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZI",
+    "name": "ZoomInfo Technologies",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FOUR",
+    "name": "Shift4 Payments",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AFRM",
+    "name": "Affirm Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UPST",
+    "name": "Upstart Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SOFI",
+    "name": "SoFi Technologies",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LC",
+    "name": "LendingClub Corp.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CIFR",
+    "name": "Cipher Mining",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RIOT",
+    "name": "Riot Platforms",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MARA",
+    "name": "Marathon Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HA",
+    "name": "First Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OA",
+    "name": "Alliance Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PA",
+    "name": "Alliance Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AB",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BBA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CBA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EBA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FBA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GBA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HBA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JBA",
+    "name": "First Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KBA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LBA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MBA",
+    "name": "United Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NBA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OBA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PBA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RBA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SBA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TBA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UBA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VBA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WBA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XBA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YBA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZBA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ACA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BCA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CCA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DCA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ECA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FCA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GCA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HCA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ICA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JCA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KCA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LCA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MCA",
+    "name": "Alliance Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NCA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OCA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PCA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QCA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RCA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SCA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TCA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UCA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VCA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WCA",
+    "name": "Superior Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XCA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YCA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZCA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ADA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BDA",
+    "name": "Pacific Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CDA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DDA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EDA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GDA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HDA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IDA",
+    "name": "First Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JDA",
+    "name": "United Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KDA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LDA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NDA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ODA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PDA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QDA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RDA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SDA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TDA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UDA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VDA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WDA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XDA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YDA",
+    "name": "United Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZDA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AEA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BEA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CEA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DEA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EEA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FEA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GEA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HEA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IEA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JEA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KEA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LEA",
+    "name": "Alliance Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MEA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NEA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OEA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PEA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QEA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "REA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TEA",
+    "name": "First Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UEA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VEA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WEA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XEA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YEA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZEA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AFA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BFA",
+    "name": "Digital Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CFA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DFA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EFA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FFA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GFA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HFA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IFA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JFA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KFA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LFA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MFA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NFA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OFA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PFA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QFA",
+    "name": "American Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RFA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SFA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TFA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UFA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VFA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WFA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XFA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YFA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZFA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AGA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BGA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CGA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DGA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EGA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FGA",
+    "name": "United Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GGA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HGA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IGA",
+    "name": "National Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JGA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KGA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LGA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MGA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NGA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OGA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PGA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QGA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RGA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SGA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TGA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UGA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VGA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WGA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XGA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YGA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZGA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AHA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BHA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CHA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DHA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EHA",
+    "name": "Digital Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FHA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GHA",
+    "name": "Pacific Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HHA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IHA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JHA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KHA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LHA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MHA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NHA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OHA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PHA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QHA",
+    "name": "Pacific Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RHA",
+    "name": "American Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SHA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "THA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UHA",
+    "name": "Alliance Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VHA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WHA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XHA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YHA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZHA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BIA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CIA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DIA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EIA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FIA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GIA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HIA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IIA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JIA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KIA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LIA",
+    "name": "First Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MIA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NIA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OIA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PIA",
+    "name": "First Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QIA",
+    "name": "National Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RIA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SIA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TIA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UIA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VIA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WIA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XIA",
+    "name": "Global Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YIA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZIA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AJA",
+    "name": "American Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BJA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CJA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DJA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EJA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FJA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GJA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HJA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IJA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JJA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KJA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LJA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MJA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NJA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OJA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PJA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QJA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RJA",
+    "name": "United Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SJA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TJA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UJA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VJA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WJA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XJA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YJA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZJA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AKA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BKA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CKA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DKA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EKA",
+    "name": "Digital Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FKA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GKA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HKA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IKA",
+    "name": "Pacific Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JKA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KKA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LKA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MKA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NKA",
+    "name": "Digital Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OKA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PKA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QKA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RKA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SKA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TKA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UKA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VKA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WKA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XKA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YKA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZKA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ALA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BLA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DLA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ELA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FLA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GLA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HLA",
+    "name": "National Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ILA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JLA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KLA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LLA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MLA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NLA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OLA",
+    "name": "Global Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PLA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QLA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RLA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SLA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TLA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ULA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VLA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WLA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XLA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YLA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZLA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AMA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BMA",
+    "name": "Pacific Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CMA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DMA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EMA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FMA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GMA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HMA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IMA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JMA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KMA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LMA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MMA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NMA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OMA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PMA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QMA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RMA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TMA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UMA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VMA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WMA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XMA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YMA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZMA",
+    "name": "American Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ANA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BNA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CNA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DNA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ENA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FNA",
+    "name": "Pacific Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GNA",
+    "name": "Superior Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HNA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "INA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JNA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KNA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LNA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MNA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NNA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ONA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PNA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QNA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RNA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SNA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TNA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UNA",
+    "name": "Global Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VNA",
+    "name": "Digital Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WNA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XNA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YNA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZNA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AOA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BOA",
+    "name": "Superior Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "COA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DOA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EOA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FOA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GOA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HOA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IOA",
+    "name": "Digital Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JOA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KOA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LOA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MOA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NOA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OOA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "POA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QOA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ROA",
+    "name": "United Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SOA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TOA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UOA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VOA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WOA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XOA",
+    "name": "Superior Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YOA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZOA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APA",
+    "name": "Superior Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BPA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CPA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DPA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EPA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FPA",
+    "name": "Pacific Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GPA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HPA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IPA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JPA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KPA",
+    "name": "United Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LPA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MPA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NPA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OPA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PPA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QPA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RPA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SPA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TPA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UPA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VPA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WPA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XPA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YPA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZPA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AQA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BQA",
+    "name": "National Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CQA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DQA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EQA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FQA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GQA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HQA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IQA",
+    "name": "First Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JQA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KQA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LQA",
+    "name": "Global Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MQA",
+    "name": "Digital Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NQA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OQA",
+    "name": "United Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PQA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RQA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SQA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TQA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UQA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VQA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WQA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XQA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YQA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZQA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ARA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BRA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CRA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DRA",
+    "name": "American Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ERA",
+    "name": "United Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FRA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GRA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HRA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IRA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JRA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KRA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LRA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MRA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NRA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ORA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PRA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QRA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RRA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SRA",
+    "name": "First Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TRA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "URA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VRA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WRA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XRA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YRA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZRA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ASA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BSA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CSA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DSA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ESA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FSA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GSA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HSA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JSA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KSA",
+    "name": "United Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LSA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MSA",
+    "name": "First Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NSA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OSA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PSA",
+    "name": "First Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QSA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RSA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SSA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TSA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VSA",
+    "name": "Global Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WSA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XSA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YSA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZSA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ATA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BTA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CTA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DTA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ETA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GTA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HTA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ITA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JTA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KTA",
+    "name": "Global Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LTA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MTA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NTA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OTA",
+    "name": "United Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PTA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QTA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RTA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TTA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UTA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VTA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WTA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XTA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YTA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZTA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AUA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BUA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CUA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DUA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EUA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FUA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GUA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HUA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IUA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JUA",
+    "name": "Digital Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KUA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LUA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MUA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NUA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OUA",
+    "name": "United Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PUA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QUA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RUA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SUA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TUA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UUA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VUA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WUA",
+    "name": "Global Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XUA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YUA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZUA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AVA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BVA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CVA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DVA",
+    "name": "Digital Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EVA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FVA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GVA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HVA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IVA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JVA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KVA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LVA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MVA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NVA",
+    "name": "First Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OVA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PVA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QVA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RVA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SVA",
+    "name": "American Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TVA",
+    "name": "First Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UVA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VVA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WVA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XVA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YVA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZVA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AWA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BWA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CWA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DWA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EWA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FWA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GWA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HWA",
+    "name": "Pacific Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IWA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JWA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KWA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LWA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MWA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NWA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OWA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PWA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QWA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RWA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SWA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TWA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UWA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VWA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WWA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XWA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YWA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZWA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AXA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BXA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CXA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DXA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EXA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FXA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GXA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HXA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IXA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JXA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KXA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LXA",
+    "name": "Pacific Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MXA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NXA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OXA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PXA",
+    "name": "Global Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QXA",
+    "name": "Alliance Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RXA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SXA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TXA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UXA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VXA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WXA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XXA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YXA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZXA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AYA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BYA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CYA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DYA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EYA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FYA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GYA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HYA",
+    "name": "National Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IYA",
+    "name": "Global Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JYA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KYA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LYA",
+    "name": "Digital Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MYA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NYA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OYA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PYA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QYA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RYA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SYA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TYA",
+    "name": "American Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UYA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VYA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WYA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XYA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YYA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZYA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AZA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BZA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CZA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DZA",
+    "name": "United Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EZA",
+    "name": "Pacific Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FZA",
+    "name": "First Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GZA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HZA",
+    "name": "Pacific Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IZA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JZA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KZA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LZA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MZA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NZA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OZA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PZA",
+    "name": "Premier Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QZA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RZA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SZA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TZA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UZA",
+    "name": "National Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VZA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WZA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XZA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YZA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZZA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAB",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CABA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DABA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EABA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FABA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GABA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HABA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IABA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JABA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KABA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LABA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MABA",
+    "name": "Digital Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NABA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OABA",
+    "name": "Pacific Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PABA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QABA",
+    "name": "Global Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RABA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SABA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TABA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UABA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VABA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WABA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XABA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YABA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZABA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ABBA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BBBA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CBBA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DBBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EBBA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FBBA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GBBA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HBBA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBBA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JBBA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KBBA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LBBA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MBBA",
+    "name": "National Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NBBA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OBBA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PBBA",
+    "name": "Pacific Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QBBA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RBBA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SBBA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TBBA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UBBA",
+    "name": "Digital Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VBBA",
+    "name": "Superior Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WBBA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XBBA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YBBA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZBBA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ACBA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BCBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CCBA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DCBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ECBA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FCBA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GCBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HCBA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ICBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JCBA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KCBA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LCBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MCBA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NCBA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OCBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PCBA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QCBA",
+    "name": "American Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RCBA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SCBA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TCBA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UCBA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VCBA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WCBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XCBA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YCBA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZCBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ADBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BDBA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CDBA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DDBA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EDBA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GDBA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HDBA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IDBA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JDBA",
+    "name": "Digital Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KDBA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LDBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MDBA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NDBA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ODBA",
+    "name": "National Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PDBA",
+    "name": "National Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QDBA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RDBA",
+    "name": "Alliance Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SDBA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TDBA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UDBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VDBA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WDBA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XDBA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YDBA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZDBA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AEBA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BEBA",
+    "name": "United Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CEBA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DEBA",
+    "name": "First Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EEBA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FEBA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GEBA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HEBA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IEBA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JEBA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KEBA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LEBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MEBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NEBA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OEBA",
+    "name": "First Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PEBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QEBA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "REBA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SEBA",
+    "name": "First Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TEBA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UEBA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VEBA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WEBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XEBA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YEBA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZEBA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AFBA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BFBA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CFBA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DFBA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EFBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FFBA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GFBA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HFBA",
+    "name": "Pacific Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IFBA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JFBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KFBA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LFBA",
+    "name": "Digital Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MFBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NFBA",
+    "name": "American Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OFBA",
+    "name": "United Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PFBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QFBA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RFBA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SFBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TFBA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UFBA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VFBA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WFBA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XFBA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YFBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZFBA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AGBA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BGBA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CGBA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DGBA",
+    "name": "National Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EGBA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FGBA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GGBA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HGBA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IGBA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JGBA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KGBA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LGBA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MGBA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NGBA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OGBA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PGBA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QGBA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RGBA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SGBA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TGBA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UGBA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VGBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WGBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XGBA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YGBA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZGBA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AHBA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BHBA",
+    "name": "Pacific Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CHBA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DHBA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EHBA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FHBA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GHBA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HHBA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IHBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JHBA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KHBA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LHBA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MHBA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NHBA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OHBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PHBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QHBA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RHBA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SHBA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "THBA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UHBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VHBA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WHBA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XHBA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YHBA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZHBA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIBA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BIBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CIBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DIBA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EIBA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FIBA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GIBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HIBA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IIBA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JIBA",
+    "name": "American Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KIBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LIBA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MIBA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NIBA",
+    "name": "First Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OIBA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PIBA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QIBA",
+    "name": "Pacific Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RIBA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SIBA",
+    "name": "Pacific Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TIBA",
+    "name": "United Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UIBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VIBA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WIBA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XIBA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YIBA",
+    "name": "United Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZIBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AJBA",
+    "name": "First Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BJBA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CJBA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DJBA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EJBA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FJBA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GJBA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HJBA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IJBA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JJBA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KJBA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LJBA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MJBA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NJBA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OJBA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PJBA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QJBA",
+    "name": "Superior Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RJBA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SJBA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TJBA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UJBA",
+    "name": "Alliance Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VJBA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WJBA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XJBA",
+    "name": "Alliance Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YJBA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZJBA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AKBA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BKBA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CKBA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DKBA",
+    "name": "First Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EKBA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FKBA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GKBA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HKBA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IKBA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JKBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KKBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LKBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MKBA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NKBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OKBA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PKBA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QKBA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RKBA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SKBA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TKBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UKBA",
+    "name": "National Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VKBA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WKBA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XKBA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YKBA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZKBA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ALBA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BLBA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLBA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DLBA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ELBA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FLBA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GLBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HLBA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ILBA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JLBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KLBA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LLBA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MLBA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NLBA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OLBA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PLBA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QLBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RLBA",
+    "name": "Pacific Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SLBA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TLBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ULBA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VLBA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WLBA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XLBA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YLBA",
+    "name": "United Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZLBA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AMBA",
+    "name": "Digital Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BMBA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CMBA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DMBA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMBA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FMBA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GMBA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HMBA",
+    "name": "National Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IMBA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JMBA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KMBA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LMBA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MMBA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NMBA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OMBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PMBA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QMBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RMBA",
+    "name": "Pacific Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMBA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TMBA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UMBA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VMBA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WMBA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XMBA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YMBA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZMBA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ANBA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BNBA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CNBA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DNBA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ENBA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FNBA",
+    "name": "Digital Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GNBA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HNBA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "INBA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JNBA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KNBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LNBA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MNBA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NNBA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ONBA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PNBA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QNBA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RNBA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SNBA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TNBA",
+    "name": "United Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UNBA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VNBA",
+    "name": "Alliance Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WNBA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XNBA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YNBA",
+    "name": "National Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZNBA",
+    "name": "Digital Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AOBA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BOBA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "COBA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DOBA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EOBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FOBA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GOBA",
+    "name": "Digital Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HOBA",
+    "name": "Superior Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IOBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JOBA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KOBA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LOBA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MOBA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NOBA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OOBA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "POBA",
+    "name": "United Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QOBA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ROBA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SOBA",
+    "name": "American Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TOBA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UOBA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VOBA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WOBA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XOBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YOBA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZOBA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APBA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BPBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CPBA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DPBA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EPBA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FPBA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GPBA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HPBA",
+    "name": "National Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IPBA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JPBA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KPBA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LPBA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MPBA",
+    "name": "Pacific Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NPBA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OPBA",
+    "name": "First Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PPBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QPBA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RPBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SPBA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TPBA",
+    "name": "First Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UPBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VPBA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WPBA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XPBA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YPBA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZPBA",
+    "name": "National Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AQBA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BQBA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CQBA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DQBA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EQBA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FQBA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GQBA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HQBA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IQBA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JQBA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KQBA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LQBA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MQBA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NQBA",
+    "name": "Superior Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OQBA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PQBA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QQBA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RQBA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SQBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TQBA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UQBA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VQBA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WQBA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XQBA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YQBA",
+    "name": "Alliance Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZQBA",
+    "name": "First Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ARBA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BRBA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CRBA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DRBA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ERBA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FRBA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GRBA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HRBA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IRBA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JRBA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KRBA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LRBA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MRBA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NRBA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ORBA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PRBA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QRBA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RRBA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SRBA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TRBA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "URBA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VRBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WRBA",
+    "name": "National Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XRBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YRBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZRBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ASBA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BSBA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CSBA",
+    "name": "American Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DSBA",
+    "name": "National Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ESBA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FSBA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GSBA",
+    "name": "Global Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HSBA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISBA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JSBA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KSBA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LSBA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MSBA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NSBA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OSBA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PSBA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QSBA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RSBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SSBA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USBA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VSBA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WSBA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XSBA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YSBA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZSBA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ATBA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BTBA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CTBA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DTBA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ETBA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FTBA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GTBA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HTBA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ITBA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JTBA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KTBA",
+    "name": "First Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LTBA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MTBA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NTBA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OTBA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PTBA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QTBA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RTBA",
+    "name": "American Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STBA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TTBA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UTBA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VTBA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WTBA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XTBA",
+    "name": "United Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YTBA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZTBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AUBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BUBA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CUBA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DUBA",
+    "name": "National Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EUBA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FUBA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GUBA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HUBA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IUBA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JUBA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KUBA",
+    "name": "National Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LUBA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MUBA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NUBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OUBA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PUBA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QUBA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RUBA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SUBA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TUBA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UUBA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VUBA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WUBA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XUBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YUBA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZUBA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AVBA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BVBA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CVBA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DVBA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EVBA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FVBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GVBA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HVBA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IVBA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JVBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KVBA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LVBA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MVBA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NVBA",
+    "name": "Superior Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OVBA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PVBA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QVBA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RVBA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SVBA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TVBA",
+    "name": "Pacific Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UVBA",
+    "name": "Pacific Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VVBA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WVBA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XVBA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YVBA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZVBA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AWBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BWBA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CWBA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWBA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EWBA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FWBA",
+    "name": "Premier Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GWBA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HWBA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IWBA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JWBA",
+    "name": "Superior Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KWBA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LWBA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MWBA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NWBA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OWBA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PWBA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QWBA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RWBA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SWBA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TWBA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UWBA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VWBA",
+    "name": "Premier Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WWBA",
+    "name": "United Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XWBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YWBA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZWBA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AXBA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BXBA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CXBA",
+    "name": "American Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DXBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EXBA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FXBA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GXBA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HXBA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IXBA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JXBA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KXBA",
+    "name": "National Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LXBA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MXBA",
+    "name": "Global Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NXBA",
+    "name": "Digital Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OXBA",
+    "name": "First Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PXBA",
+    "name": "American Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QXBA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RXBA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SXBA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TXBA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UXBA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VXBA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WXBA",
+    "name": "Global Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XXBA",
+    "name": "Superior Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YXBA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZXBA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AYBA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BYBA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CYBA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DYBA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EYBA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FYBA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GYBA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HYBA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IYBA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JYBA",
+    "name": "Pacific Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KYBA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LYBA",
+    "name": "United Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MYBA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NYBA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OYBA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PYBA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QYBA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RYBA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SYBA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TYBA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UYBA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VYBA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WYBA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XYBA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YYBA",
+    "name": "Digital Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZYBA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AZBA",
+    "name": "Global Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BZBA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CZBA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DZBA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EZBA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FZBA",
+    "name": "Digital Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GZBA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HZBA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IZBA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JZBA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KZBA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LZBA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MZBA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NZBA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OZBA",
+    "name": "First Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PZBA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QZBA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RZBA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SZBA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TZBA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UZBA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VZBA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WZBA",
+    "name": "Premier Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XZBA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YZBA",
+    "name": "Global Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZZBA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AACA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BACA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CACA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DACA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EACA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FACA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GACA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HACA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IACA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JACA",
+    "name": "United Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KACA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LACA",
+    "name": "First Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MACA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NACA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OACA",
+    "name": "Superior Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PACA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QACA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RACA",
+    "name": "Pacific Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SACA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TACA",
+    "name": "American Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UACA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VACA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WACA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XACA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YACA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZACA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ABCA",
+    "name": "First Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BBCA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CBCA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DBCA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EBCA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FBCA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GBCA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HBCA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IBCA",
+    "name": "Alliance Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JBCA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KBCA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LBCA",
+    "name": "Alliance Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MBCA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NBCA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OBCA",
+    "name": "Pacific Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PBCA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QBCA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RBCA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SBCA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TBCA",
+    "name": "United Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UBCA",
+    "name": "American Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VBCA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WBCA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XBCA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YBCA",
+    "name": "National Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZBCA",
+    "name": "First Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ACCA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BCCA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CCCA",
+    "name": "Digital Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DCCA",
+    "name": "United Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ECCA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FCCA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GCCA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HCCA",
+    "name": "American Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ICCA",
+    "name": "Digital Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JCCA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KCCA",
+    "name": "Superior Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LCCA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MCCA",
+    "name": "First Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NCCA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OCCA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PCCA",
+    "name": "United Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QCCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RCCA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SCCA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TCCA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UCCA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VCCA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WCCA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XCCA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YCCA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZCCA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ADCA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BDCA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CDCA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DDCA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EDCA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDCA",
+    "name": "American Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GDCA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HDCA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IDCA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JDCA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KDCA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LDCA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDCA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NDCA",
+    "name": "National Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ODCA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PDCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QDCA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RDCA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SDCA",
+    "name": "Superior Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TDCA",
+    "name": "Pacific Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UDCA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VDCA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WDCA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XDCA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YDCA",
+    "name": "Global Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZDCA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AECA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BECA",
+    "name": "First Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CECA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DECA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EECA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FECA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GECA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HECA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IECA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JECA",
+    "name": "Superior Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KECA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LECA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MECA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NECA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OECA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PECA",
+    "name": "United Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QECA",
+    "name": "Pacific Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RECA",
+    "name": "First Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SECA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TECA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UECA",
+    "name": "Premier Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VECA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WECA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XECA",
+    "name": "Superior Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YECA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZECA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AFCA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BFCA",
+    "name": "Alliance Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CFCA",
+    "name": "Premier Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DFCA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EFCA",
+    "name": "American Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FFCA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GFCA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HFCA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IFCA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JFCA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KFCA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LFCA",
+    "name": "First Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MFCA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NFCA",
+    "name": "Alliance Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OFCA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PFCA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QFCA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RFCA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SFCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TFCA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UFCA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VFCA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WFCA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XFCA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YFCA",
+    "name": "First Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZFCA",
+    "name": "Global Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AGCA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BGCA",
+    "name": "Premier Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CGCA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DGCA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EGCA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FGCA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GGCA",
+    "name": "Pacific Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HGCA",
+    "name": "Digital Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IGCA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JGCA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KGCA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LGCA",
+    "name": "National Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MGCA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NGCA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OGCA",
+    "name": "United Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PGCA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QGCA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RGCA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SGCA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TGCA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UGCA",
+    "name": "Global Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VGCA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WGCA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XGCA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YGCA",
+    "name": "Digital Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZGCA",
+    "name": "Pacific Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AHCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BHCA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CHCA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DHCA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EHCA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FHCA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GHCA",
+    "name": "Premier Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HHCA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IHCA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JHCA",
+    "name": "Premier Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KHCA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LHCA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MHCA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NHCA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OHCA",
+    "name": "Superior Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PHCA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QHCA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RHCA",
+    "name": "Digital Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SHCA",
+    "name": "Global Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "THCA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UHCA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VHCA",
+    "name": "Digital Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WHCA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XHCA",
+    "name": "Superior Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YHCA",
+    "name": "Alliance Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZHCA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AICA",
+    "name": "Global Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BICA",
+    "name": "Pacific Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CICA",
+    "name": "Alliance Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DICA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EICA",
+    "name": "National Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FICA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GICA",
+    "name": "Alliance Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HICA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IICA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JICA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KICA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LICA",
+    "name": "Superior Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MICA",
+    "name": "Digital Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NICA",
+    "name": "Digital Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OICA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PICA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QICA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RICA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SICA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TICA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UICA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VICA",
+    "name": "First Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WICA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XICA",
+    "name": "Global Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YICA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZICA",
+    "name": "United Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AJCA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BJCA",
+    "name": "Premier Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CJCA",
+    "name": "Superior Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DJCA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EJCA",
+    "name": "National Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FJCA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GJCA",
+    "name": "Alliance Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HJCA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IJCA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JJCA",
+    "name": "National Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KJCA",
+    "name": "United Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LJCA",
+    "name": "Global Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MJCA",
+    "name": "United Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NJCA",
+    "name": "Global Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OJCA",
+    "name": "First Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PJCA",
+    "name": "American Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QJCA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RJCA",
+    "name": "Alliance Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SJCA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TJCA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UJCA",
+    "name": "United Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VJCA",
+    "name": "Digital Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WJCA",
+    "name": "United Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XJCA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YJCA",
+    "name": "Global Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZJCA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AKCA",
+    "name": "Alliance Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BKCA",
+    "name": "American Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CKCA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DKCA",
+    "name": "Alliance Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EKCA",
+    "name": "American Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FKCA",
+    "name": "United Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GKCA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HKCA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IKCA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JKCA",
+    "name": "Premier Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KKCA",
+    "name": "Premier Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LKCA",
+    "name": "Pacific Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MKCA",
+    "name": "National Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NKCA",
+    "name": "American Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OKCA",
+    "name": "Superior Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PKCA",
+    "name": "Alliance Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QKCA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RKCA",
+    "name": "American Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SKCA",
+    "name": "Premier Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TKCA",
+    "name": "National Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UKCA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VKCA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WKCA",
+    "name": "Premier Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XKCA",
+    "name": "American Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YKCA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZKCA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ALCA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BLCA",
+    "name": "Superior Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLCA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DLCA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ELCA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FLCA",
+    "name": "Global Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GLCA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HLCA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ILCA",
+    "name": "United Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JLCA",
+    "name": "Global Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KLCA",
+    "name": "Digital Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LLCA",
+    "name": "Superior Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MLCA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NLCA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OLCA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PLCA",
+    "name": "United Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QLCA",
+    "name": "Digital Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RLCA",
+    "name": "First Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SLCA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TLCA",
+    "name": "Pacific Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ULCA",
+    "name": "Alliance Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VLCA",
+    "name": "American Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WLCA",
+    "name": "National Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XLCA",
+    "name": "Premier Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YLCA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZLCA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AMCA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BMCA",
+    "name": "Global Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CMCA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DMCA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMCA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FMCA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GMCA",
+    "name": "American Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HMCA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IMCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JMCA",
+    "name": "American Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KMCA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LMCA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MMCA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NMCA",
+    "name": "Superior Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OMCA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PMCA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QMCA",
+    "name": "American Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RMCA",
+    "name": "Alliance Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMCA",
+    "name": "Global Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TMCA",
+    "name": "Pacific Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UMCA",
+    "name": "First Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VMCA",
+    "name": "Pacific Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "WMCA",
+    "name": "Superior Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XMCA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YMCA",
+    "name": "First Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZMCA",
+    "name": "Digital Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ANCA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BNCA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CNCA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DNCA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ENCA",
+    "name": "American Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FNCA",
+    "name": "First Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GNCA",
+    "name": "Superior Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HNCA",
+    "name": "United Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "INCA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JNCA",
+    "name": "Global Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KNCA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LNCA",
+    "name": "United Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MNCA",
+    "name": "Global Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NNCA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ONCA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PNCA",
+    "name": "Global Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QNCA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RNCA",
+    "name": "National Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SNCA",
+    "name": "American Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TNCA",
+    "name": "First Holdings",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UNCA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VNCA",
+    "name": "United Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WNCA",
+    "name": "Global Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XNCA",
+    "name": "Digital Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YNCA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZNCA",
+    "name": "First Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AOCA",
+    "name": "Premier Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BOCA",
+    "name": "Digital Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COCA",
+    "name": "Digital Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DOCA",
+    "name": "First Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EOCA",
+    "name": "National Capital",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FOCA",
+    "name": "First Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GOCA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HOCA",
+    "name": "Premier Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IOCA",
+    "name": "Premier Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JOCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KOCA",
+    "name": "Global Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LOCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MOCA",
+    "name": "Global Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NOCA",
+    "name": "Superior Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OOCA",
+    "name": "Superior Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "POCA",
+    "name": "Pacific Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QOCA",
+    "name": "United Capital",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ROCA",
+    "name": "National Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SOCA",
+    "name": "National Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TOCA",
+    "name": "National Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UOCA",
+    "name": "Global Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VOCA",
+    "name": "Pacific Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WOCA",
+    "name": "Pacific Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XOCA",
+    "name": "First Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "YOCA",
+    "name": "Alliance Partners",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ZOCA",
+    "name": "National Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APCA",
+    "name": "Premier Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BPCA",
+    "name": "First Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CPCA",
+    "name": "Alliance Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DPCA",
+    "name": "First Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EPCA",
+    "name": "American Industries",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FPCA",
+    "name": "Pacific Solutions",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GPCA",
+    "name": "Pacific Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HPCA",
+    "name": "United Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IPCA",
+    "name": "Digital Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JPCA",
+    "name": "Superior Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KPCA",
+    "name": "United Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LPCA",
+    "name": "Alliance Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MPCA",
+    "name": "Pacific Dynamics",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NPCA",
+    "name": "First Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "OPCA",
+    "name": "American Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PPCA",
+    "name": "United Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QPCA",
+    "name": "First Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RPCA",
+    "name": "Global Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SPCA",
+    "name": "Pacific Group",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TPCA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "UPCA",
+    "name": "Premier Dynamics",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VPCA",
+    "name": "Premier Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WPCA",
+    "name": "Digital Solutions",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XPCA",
+    "name": "Alliance Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YPCA",
+    "name": "Premier Ventures",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZPCA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AQCA",
+    "name": "Global Systems",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BQCA",
+    "name": "Digital Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CQCA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DQCA",
+    "name": "Premier Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EQCA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FQCA",
+    "name": "Alliance Group",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GQCA",
+    "name": "American Industries",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HQCA",
+    "name": "Digital Ventures",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IQCA",
+    "name": "Digital Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JQCA",
+    "name": "Alliance Systems",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KQCA",
+    "name": "American Holdings",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LQCA",
+    "name": "United Tech",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MQCA",
+    "name": "Pacific Tech",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NQCA",
+    "name": "First Partners",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OQCA",
+    "name": "National Industries",
+    "exchange": "NYSE"
+  }
+]
